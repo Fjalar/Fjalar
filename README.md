@@ -1,4 +1,6 @@
-## Hi there 👋
+I have a Master's in engineering, and I love programming. Check out my [CV](https://fjalar.github.io/cv)!
+
+Currently employed at [Oxide AI](https://oxide.ai)
 
 <!--
 **Fjalar/Fjalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
