@@ -2,17 +2,15 @@ I have a Master's in engineering, and I love programming. Check out my [CV](http
 
 Currently employed at [Oxide AI](https://oxide.ai)
 
-<!--
-**Fjalar/Fjalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of my projects are on [GitLab](https://gitlab.com/Fjalar)
 
-Here are some ideas to get you started:
+dumb web games:
+- [2048](https://fjalar.github.io/2048)
+- [Fair Flips](https://fjalar.github.io/fairflips)
+- [Bevy Jam 7 unfinished prototype](https://fjalar.github.io/bevyjam7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+graphics stuff:
+- [Ray Tracing in One Weekend, but in Rust 😱](https://github.com/Fjalar/weekend-rt)
+- [SDF Ray Marcher](https://gitlab.com/Fjalar/raymarching)
+- [Interactive Fractal Explorer](https://gitlab.com/Fjalar/bittermandel)
+- [Some `rust-gpu` thing that might turn into something](https://github.com/Fjalar/rust-gpu-test)
