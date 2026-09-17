@@ -1,6 +1,6 @@
-I have a Master's in engineering, and I love programming. Check out my [CV](https://fjalar.github.io/cv)!
+I have a Master's in Engineering, and I like writing Rust and Python. Thinking about learning Go. Check out my [CV](https://fjalar.github.io/cv)!
 
-Currently employed by [Oxide AI](https://oxide.ai)
+Currently working at [Oxide AI](https://oxide.ai)
 
 Some of my projects are on [GitLab](https://gitlab.com/Fjalar)
 
